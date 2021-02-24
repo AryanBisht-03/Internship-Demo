@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Intern1Project</string>
+
+    <!-- Used in MainActivity-->
+    <string name="heading">Hello Guys..</string>
+    <string name="ButtonText">Lets go to next place..</string>
+    <string name="ending">So bye bye for now. See you soon.Be safe</string>
+    <string name="AboutMe">My Name is Aryan Bisht I am from Dehradun, Uttarakhand (I know you guys already know :-) ).
+    I want to say that I am really exicted to work with you guys.</string>
+    <string name="Description">This app is made for just showing my skills I have little time to made this so I have made this app
+    very simple without any fancy animations and special layout I am showing my back-end skills.</string>
+
+    <!--Used in FlashScreenActivity-->
+    <string name="logo">I love football</string>
+
+    <!--Used in DetailsFragment-->
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="Age">Age </string>
+    <string name="hintAge">Age (Real especially for girls) :-)</string>
+    <string name="phoneNumber">Phone Number</string>
+
+    <!--Used AddDataFragment-->
+    <string name="HeadingAddData">Add New Intern</string>
+    <string name="sendData">All set</string>
+    <string name="extra">I also know how to upload and save images but due to time constraint I am not able to do this</string>
+
+    <!--Used in FireBass-->
+    <string name="internkey">Interns</string>
+
+    <!--Used in DeleteFragment-->
+    <string name="headingdelete">Delete any user</string>
+    <string name="howdelete">Tap on the user which you want to delete</string>
+
+</resources>
